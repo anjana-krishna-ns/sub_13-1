@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "113219704494",
+    "firebase_url": "https://arche-org-default-rtdb.firebaseio.com",
+    "project_id": "arche-org",
+    "storage_bucket": "arche-org.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113219704494:android:755114b3639f010fcfbf3f",
+        "android_client_info": {
+          "package_name": "com.sub.sub_arche"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113219704494-uil3p0qa5o3kkmncniutu5h04o7faq6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDEblI2bBFyNKeYYiwPM2si-CYBQEKKQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113219704494-uil3p0qa5o3kkmncniutu5h04o7faq6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
